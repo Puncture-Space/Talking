@@ -1,3 +1,6 @@
+"""
+测试多线程并行的demo py文件
+"""
 import logging
 import threading
 import time
